@@ -1,6 +1,6 @@
+<img src="https://i.ibb.co.com/Q72djqk5/Imran-Hossain-0.jpg" alt="Imran-Hossain-0" border="0">
 
-
-<h1 align="center">Hi 👋, I'm MD Imran Hosain</h1>
+<h1 align="center">Hi 👋, I'm MD Imran Hossain</h1>
 <h3 align="center">A passionate frontend developer,Web Designer & WordPress Expert</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranmmcz&label=Profile%20views&color=0e75b6&style=flat" alt="imranmmcz" /> </p>
